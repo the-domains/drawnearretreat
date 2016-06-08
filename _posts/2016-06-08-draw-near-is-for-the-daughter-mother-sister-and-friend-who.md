@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ' Draw Near is for the daughter, mother, sister and friend who longs to take time away to hear from God. By exploring creativity in worship we open our hearts to hear from God in a whole new way. With large group gatherings and intimate breakouts our time is designed to give you a unique worship experience. We will explore things like creative prayer, holy yoga, #scripturedoodle, writing, worship through hospitality, even experiencing God in nature. Our prayer is that you will leave our time together having found a new place of worship with a fresh heart for God.'
-datePublished: '2016-06-08T19:05:16.131Z'
-dateModified: '2016-06-08T19:04:18.330Z'
+datePublished: '2016-06-08T19:06:22.623Z'
+dateModified: '2016-06-08T19:05:51.290Z'
 title: 'WHAT '
 author: []
 sourcePath: >-
