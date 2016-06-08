@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[drawnearretreat]]></title>
-        <description><![CDATA[drawnearretreat]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Draw Near Retreat]]></title>
+        <description><![CDATA[Draw Near Retreat]]></description>
+        <link>https://thegrid.ai/drawnearretreat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 18:54:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 08 Jun 2016 19:05:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/drawnearretreat/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a536473-7901-4310-bcc8-c355206e570b.jpg">]]></description>
-            <link>undefineddraw-near-is-for-the-daughter-mother-sister-and-friend-who/index.html</link>
+            <title><![CDATA[WHAT ]]></title>
+            <description><![CDATA[<article><h1>WHAT </h1><p> Draw Near is for the daughter, mother, sister and friend who longs to take time away to hear from God. By exploring creativity in worship we open our hearts to hear from God in a whole new way. With large group gatherings and intimate breakouts our time is designed to give you a unique worship experience. We will explore things like creative prayer, holy yoga, #scripturedoodle, writing, worship through hospitality, even experiencing God in nature. Our prayer is that you will leave our time together having found a new place of worship with a fresh heart for God.</p></article>]]></description>
+            <link>https://thegrid.ai/drawnearretreat/draw-near-is-for-the-daughter-mother-sister-and-friend-who/index.html</link>
             <guid isPermaLink="false">25992b05-7e24-4d2b-86a9-6dc9af9ca677</guid>
-            <pubDate>Wed, 08 Jun 2016 18:54:35 GMT</pubDate>
+            <pubDate>Wed, 08 Jun 2016 19:05:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
